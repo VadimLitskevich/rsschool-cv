@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://VadimLitskevich.github.io/rsschool-cv/cv
+## https://VadimLitskevich.github.io/rsschool-cv/
